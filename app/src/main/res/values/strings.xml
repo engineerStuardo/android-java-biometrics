@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Biometric Auth App Android</string>
+    <string name="authentication">Authentication</string>
+</resources>
